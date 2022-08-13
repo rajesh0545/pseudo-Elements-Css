@@ -1,0 +1,12 @@
+body{
+    background-color:whitesmoke;
+    color:green;
+    font-size: large;
+    text-align: center;
+}
+  p::after{
+    content: '"';
+    color: red;
+    font-size: 30px;
+}
+
